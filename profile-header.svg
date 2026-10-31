@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Utkarsh Tripathi</title><desc id="desc">A soft clay-inspired lavender and midnight banner for a developer profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#211936"/><stop offset=".55" stop-color="#30244c"/><stop offset="1" stop-color="#40345f"/></linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8ddff"/><stop offset="1" stop-color="#a994e7"/></linearGradient>
+    <linearGradient id="orb2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9f0ed"/><stop offset="1" stop-color="#8abcb9"/></linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="9"/><feOffset dx="8" dy="10" result="off"/><feComponentTransfer><feFuncA type="linear" slope=".28"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="34" fill="url(#bg)"/>
+  <circle cx="1050" cy="55" r="125" fill="#8972bd" opacity=".16" filter="url(#soft)"/>
+  <circle cx="130" cy="310" r="105" fill="#9b8bd1" opacity=".13" filter="url(#soft)"/>
+  <g opacity=".25" fill="none" stroke="#d9d0f4"><path d="M0 270 Q260 180 510 280 T1200 210"/><path d="M0 292 Q260 202 510 302 T1200 232"/></g>
+  <g filter="url(#shadow)">
+    <circle cx="1010" cy="160" r="88" fill="url(#orb)"/>
+    <circle cx="1082" cy="95" r="34" fill="url(#orb2)"/>
+    <rect x="910" y="220" width="170" height="45" rx="22" fill="#b8a9e7" transform="rotate(-12 995 242)"/>
+    <circle cx="1138" cy="232" r="20" fill="#f0cde9"/>
+  </g>
+  <g fill="#f6f2ff" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="82" y="133" font-size="23" letter-spacing="4" fill="#cbbcf3">HELLO, I'M</text>
+    <text x="78" y="205" font-size="59" font-weight="750">Utkarsh Tripathi</text>
+    <text x="82" y="250" font-size="24" fill="#e1d9f3">Computer Science  •  Data Science  •  Software Development</text>
+    <text x="82" y="292" font-size="17" fill="#bfb2dd">Learning by building. Creating with curiosity.</text>
+  </g>
+  <g fill="#ffffff" opacity=".55"><circle cx="820" cy="75" r="3"/><circle cx="860" cy="112" r="2"/><circle cx="775" cy="245" r="3"/><circle cx="1145" cy="45" r="3"/><circle cx="1095" cy="300" r="2"/></g>
+</svg>
