@@ -107,14 +107,7 @@ A selection of software, AI, IoT, and digital-creative work I've explored. Some 
       <p><strong>Focus:</strong> Web solutions, branding, digital strategy.</p>
       <p><a href="https://kavirox.space">Visit Kavirox.space</a></p>
     </td>
-    <td width="50%" valign="top">
-      <img src="./befin.png" alt="BeFin campaign creative artwork" width="100%" />
-      <h3>BeFin — Campaign & Creative Work</h3>
-      <p><strong>Type:</strong> Design / promotional creative</p>
-      <p>Promotional communication for a financial-literacy initiative, including campaign and EDM poster concepts.</p>
-      <p><strong>Focus:</strong> Campaign design, digital creatives, visual communication.</p>
-    </td>
-  </tr>
+   </tr>
 </table>
 
 ### Additional creative work
