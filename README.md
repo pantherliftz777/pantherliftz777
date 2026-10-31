@@ -122,22 +122,41 @@ A selection of software, AI, IoT, and digital-creative work I've explored. Some 
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pantherliftz777&show_icons=true&hide_border=true&bg_color=151224&title_color=C4B5FD&icon_color=A78BFA&text_color=E9E5F5&ring_color=A78BFA" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantherliftz777&layout=compact&hide_border=true&bg_color=151224&title_color=C4B5FD&text_color=E9E5F5" alt="Most used languages" />
+  <img height="170"
+    src="https://github-stats-extended.vercel.app/api?username=pantherliftz777&show_icons=true&hide_border=true&bg_color=151224&title_color=C4B5FD&icon_color=A78BFA&text_color=E9E5F5&ring_color=A78BFA"
+    alt="GitHub Statistics" />
+  <img height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pantherliftz777&layout=compact&hide_border=true&bg_color=151224&title_color=C4B5FD&text_color=E9E5F5"
+    alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pantherliftz777&hide_border=true&background=151224&ring=A78BFA&fire=F0ABFC&currStreakLabel=C4B5FD&sideLabels=E9E5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA2BC" alt="GitHub contribution streak" width="75%" />
+  <img width="75%"
+    src="https://streak-stats.demolab.com?user=pantherliftz777&hide_border=true&background=151224&ring=A78BFA&fire=F0ABFC&currStreakLabel=C4B5FD&sideLabels=E9E5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA2BC"
+    alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pantherliftz777&bg_color=151224&color=E9E5F5&line=A78BFA&point=F0ABFC&area=true&hide_border=true" alt="GitHub contribution activity graph" width="98%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pantherliftz777/pantherliftz777/output/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pantherliftz777/pantherliftz777/output/github-snake.svg" />
+    <img
+      src="https://raw.githubusercontent.com/pantherliftz777/pantherliftz777/output/github-snake.svg"
+      alt="GitHub Contribution Snake Animation"
+      width="100%" />
+  </picture>
 </p>
 
 ---
+
 
 ## 🎓 Education & Learning
 
